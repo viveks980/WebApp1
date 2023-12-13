@@ -1,0 +1,6 @@
+DD-11-2023 11-00-55The error is:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at WebApplication1.Model.LoginClass.getuserbyid(Int32 Id) in C:\Users\vivek\source\repos\WebApplication1\Model\LoginClass.cs:line 144
+DD-11-2023 11-36-30The error is:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at WebApplication1.Model.LoginClass.getuserbyid(Int32 Id) in C:\Users\vivek\source\repos\WebApplication1\Model\LoginClass.cs:line 160
+DD-11-2023 12-22-02The error is:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at WebApplication1.Model.LoginClass.getuserbyid(Int32 Id) in C:\Users\vivek\source\repos\WebApplication1\Model\LoginClass.cs:line 160
